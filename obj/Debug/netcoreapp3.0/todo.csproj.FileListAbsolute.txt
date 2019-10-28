@@ -1,0 +1,11 @@
+C:\Users\douglas.slaviero\Documents\todo\bin\Debug\netcoreapp3.0\todo.exe
+C:\Users\douglas.slaviero\Documents\todo\bin\Debug\netcoreapp3.0\todo.deps.json
+C:\Users\douglas.slaviero\Documents\todo\bin\Debug\netcoreapp3.0\todo.runtimeconfig.json
+C:\Users\douglas.slaviero\Documents\todo\bin\Debug\netcoreapp3.0\todo.runtimeconfig.dev.json
+C:\Users\douglas.slaviero\Documents\todo\bin\Debug\netcoreapp3.0\todo.dll
+C:\Users\douglas.slaviero\Documents\todo\bin\Debug\netcoreapp3.0\todo.pdb
+C:\Users\douglas.slaviero\Documents\todo\obj\Debug\netcoreapp3.0\todo.csprojAssemblyReference.cache
+C:\Users\douglas.slaviero\Documents\todo\obj\Debug\netcoreapp3.0\todo.AssemblyInfoInputs.cache
+C:\Users\douglas.slaviero\Documents\todo\obj\Debug\netcoreapp3.0\todo.AssemblyInfo.cs
+C:\Users\douglas.slaviero\Documents\todo\obj\Debug\netcoreapp3.0\todo.dll
+C:\Users\douglas.slaviero\Documents\todo\obj\Debug\netcoreapp3.0\todo.pdb
