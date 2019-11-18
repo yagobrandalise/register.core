@@ -714,35 +714,28 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.0": [
       "Microsoft.Azure.Cosmos >= 3.3.2",
-      "Newtonsoft.Json"
+      "Newtonsoft.Json >= 12.0.2"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\douglas.slaviero\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\PICHAU\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\douglas.slaviero\\Documents\\todo\\todo.csproj",
+      "projectUniqueName": "C:\\Users\\PICHAU\\Documents\\register.core\\todo.csproj",
       "projectName": "todo",
-      "projectPath": "C:\\Users\\douglas.slaviero\\Documents\\todo\\todo.csproj",
-      "packagesPath": "C:\\Users\\douglas.slaviero\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\douglas.slaviero\\Documents\\todo\\obj\\",
+      "projectPath": "C:\\Users\\PICHAU\\Documents\\register.core\\todo.csproj",
+      "packagesPath": "C:\\Users\\PICHAU\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PICHAU\\Documents\\register.core\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\douglas.slaviero\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\PICHAU\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "\\\\srvfs07\\ud-builder\\Builds\\Nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -765,7 +758,7 @@
           },
           "Newtonsoft.Json": {
             "target": "Package",
-            "version": "(, )"
+            "version": "[12.0.2, )"
           }
         },
         "imports": [
